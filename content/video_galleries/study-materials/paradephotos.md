@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 title: World Muslim Day Parade Photos
 uid: 9589e812-bc55-efab-5bfb-ef7ceee6e488

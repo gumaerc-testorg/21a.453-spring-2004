@@ -2,12 +2,16 @@
 content_type: resource
 description: 'World Muslim Day Parade Photos (All photos by Susan Slyomovics): Photos
   from Muslim Day Parade, New York City, 1991: Float of the Masjid al-Haram of Makkah'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-453-anthropology-of-the-middle-east-spring-2004/5520fef8bb73553df93483e2d61bece5_parade8.jpg
+file: /media/courses/21a-453-anthropology-of-the-middle-east-spring-2004/5520fef8bb73553df93483e2d61bece5_parade8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: parade8.jpg
 uid: 5520fef8-bb73-553d-f934-83e2d61bece5

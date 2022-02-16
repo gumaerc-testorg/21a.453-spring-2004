@@ -2,12 +2,16 @@
 content_type: resource
 description: 'Storefront Mosques of New York City Photos (All photos by Susan Slyomovics):
   The muezzin of Masjid Al-Falah performs unamplified calls to prayer.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-453-anthropology-of-the-middle-east-spring-2004/eedb2f66d2b776fd41b1e6fe18adaddd_storemosque9.jpg
+file: /media/courses/21a-453-anthropology-of-the-middle-east-spring-2004/eedb2f66d2b776fd41b1e6fe18adaddd_storemosque9.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: storemosque9.jpg
 uid: eedb2f66-d2b7-76fd-41b1-e6fe18adaddd

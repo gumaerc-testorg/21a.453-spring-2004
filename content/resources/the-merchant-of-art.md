@@ -2,6 +2,18 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Study Materials
+parent_type: CourseSection
+related_resources_text: '**Readings**
+
+
+  Slyomovics, Susan. _The Merchant of Art: An Oral Epic Egyptian Poet in Performance._
+  Berkeley, CA: University of California Press, 1988, pp. 1-35, and 264-268. ISBN:
+  9780520097377.'
+resource_index_text: ''
 resourcetype: Video
 title: The Merchant of Art
 uid: 142ada3e-9d33-218c-b432-9019d4931fcb

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 title: Storefront Mosques of New York City Photos
 uid: bd1842c2-e8c7-82d0-b952-a5817f34b84a

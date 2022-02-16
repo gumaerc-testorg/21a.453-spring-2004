@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 title: Middle Eastern 20th Century Folk Art Photos
 uid: 1c5fb7cd-d144-809d-a846-c3b9282be29f

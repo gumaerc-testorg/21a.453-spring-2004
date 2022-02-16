@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Study Materials
+parent_type: CourseSection
+related_resources_text: Accompanying Booklet ([PDF](resources/weddingsong-1))
+resource_index_text: ''
 resourcetype: Video
 title: Wedding Song
 uid: 860fc923-f60b-a769-7f54-df3a1c7b5895
