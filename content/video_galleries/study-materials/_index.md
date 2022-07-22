@@ -1,6 +1,9 @@
 ---
 content_type: page
+description: Photographs, audio, video and additional reading.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 videos:
@@ -27,4 +30,4 @@ Photo Galleries
 Additional Readings
 -------------------
 
-*   Slymovics, Susan. "Asig Ra'bad: The Passion of Ma'bad." _Oriente Rodemo_, nuov. ser. anno 21, nr. 3, 2002, in press. ([PDF]({{< baseurl >}}/resources/aoe000049a))
+*   Slymovics, Susan. "Asig Ra'bad: The Passion of Ma'bad." _Oriente Rodemo_, nuov. ser. anno 21, nr. 3, 2002, in press. ({{% resource_link 379b7b17-b231-01b6-5f0d-98a523dd8db2 "PDF" %}})
