@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: storemosque11.jpg
 uid: 2cddfe31-5bd5-796d-815c-6d7c1b7e35bf
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): Islamic Sunnat-Ul-Jamaat: Hanafi Sunni mosque in the Bronx.
-

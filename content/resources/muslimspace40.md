@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: muslimspace40.jpg
 uid: 8a25e9ad-a1bb-dc72-8d9a-e9a4d431d23d
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): Sunnat-Ul-Jamaat mosque, the Bronx: Prophet's birthday and annual general election meeting.
-

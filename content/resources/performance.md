@@ -5,6 +5,7 @@ file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/281ee3acbc980
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: performance.pdf
 uid: 281ee3ac-bc98-0c0d-5c65-7c8a3edbfc6e
 ---
 This resource includes additional information on Susan Slyomovics's book.
-

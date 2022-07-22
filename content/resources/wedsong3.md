@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: wedsong3.jpg
 uid: 2f7f8ec4-3e43-7c4a-50b0-38bbb764d5b0
 ---
 Wedding Song Photos (All photos by Susan Slyomovics): Photo stills from Wedding Song: Henna Art among Pakistani Women in New York City: Painting the bride
-

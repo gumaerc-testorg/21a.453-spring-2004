@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: storemosque18.jpg
 uid: 915272da-da6e-481c-ef29-498b771d4f4b
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): A Protestant Church rectory converted to a Turkish Cypriot mosque in the Bronx.
-

@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: muslimspace38.jpg
 uid: 07dafc17-26f3-2e2b-6192-8772f9936db6
 ---
 World Muslim Day Parade Photos (All photos by Susan Slyomovics): Photos from Muslim Day Parade, New York City, 1991: Banners preceding the float of the Ka'aba.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: parade4.jpg
 uid: 2aa4fbff-c8ee-5bc4-5295-6dc767e101c4
 ---
 World Muslim Day Parade Photos (All photos by Susan Slyomovics): Photos from Muslim Day Parade, New York City, 1991: Float of the Masjid Al-Haram, Makkah
-

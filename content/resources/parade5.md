@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: parade5.jpg
 uid: 0dada912-0380-1c05-0def-368520008c7c
 ---
 World Muslim Day Parade Photos (All photos by Susan Slyomovics): Photos from Muslim Day Parade, New York City, 1991: Marchers head south down Lexington Ave. between 23rd and 32nd St. Banner in Arabic: The Islamic Circle of North America
-

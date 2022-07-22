@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: storemosque15.jpg
 uid: a3978d35-2d58-2b97-56be-69ed3c7a3775
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): Storefront facade of Masjid Ammar Bin Yasser in Brooklyn
-

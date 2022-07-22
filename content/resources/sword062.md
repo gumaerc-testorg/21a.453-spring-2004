@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: sword062.jpg
 uid: dbe14344-6f4d-547b-9f36-d5bfed33daaa
 ---
 Middle Eastern 20th Century Folk Art Photos: Abu Zayd al-Hilal Salama, epic hero. Block print, Cairo, Eqypt. 20th century folk art, owned by Prof. Susan Slyomovics.
-

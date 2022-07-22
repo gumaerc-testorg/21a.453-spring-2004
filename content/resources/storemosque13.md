@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: storemosque13.jpg
 uid: 488bc772-80b0-0aae-977c-f527b4798924
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): Interior of Sunnat-Ul-Jamaat mosque: The Imam points to masking tape lines that orient worshippers to Mecca.
-

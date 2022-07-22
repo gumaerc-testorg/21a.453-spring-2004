@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -32,6 +33,4 @@ video_metadata:
 Directed and produced by: Susan Slyomovics
 
 Awadallah Abd al-Jalil Ali is the "merchant of art," a professional epic singer. The son and grandson of itinerant illiterate poets who have for generations recited the cycle of Arabic heroic tales called Sirat Bani Hilal. Awadallah narrates the epic and other tales in his repertoire in the marketplace, local small cafes, and at saints’ pilgrimage sites. He is also commissioned to perform at certain festive occasions, such as weddings, circumcisions, Ramadan breaking the fasts, and welcome parties to celebrate the return of pilgrims from the hajj to Mecca. Accompanying himself on the tar, the large Nubian frame drum, he sings rhymed quatrains in Sa’idi Arabic dialect. Filmed in 1986 in Awadallah’s home village of Mahamid, Aswan Governorate, Egypt.
-
-
 

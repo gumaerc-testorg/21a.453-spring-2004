@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: storemosque19.jpg
 uid: fdb43fb5-4a8b-ff5f-d2aa-3e94e7173fa5
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): Beginnings: a basement mosque with masjid painted on lower left corner, the Bronx.
-

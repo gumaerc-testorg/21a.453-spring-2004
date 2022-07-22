@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: storemosque10.jpg
 uid: 2ca28fda-221c-f65d-7dac-a3de63d59776
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): The Turkish community's Al-Fatih Mosque: former movie theater ticket booth converted to a religious bookstore.
-

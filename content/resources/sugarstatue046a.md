@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: sugarstatue046a.jpg
 uid: f5198947-8cb0-2ee7-f180-75126afc91cc
 ---
 Middle Eastern 20th Century Folk Art Photos: Epic heroes carved in pink sugar candy, Cairo street
-

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 Directed and produced by: Susan Slyomovics, Amanda Dargan
 
 This film brings the viewer into a Pakistani living room in Queens, New York, where Shenaz Hooda uses henna dye to paint intricate patterns and designs on the hands and feet of a bride-to-be, while the bride’s friends sing humorous wedding songs mocking her future in-laws.  The film explores the exquisite mehendi body painting tradition as it is found in India and Pakistan and provides insight into new immigrant traditions.
-
-
 

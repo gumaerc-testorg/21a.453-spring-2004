@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: sword061a.jpg
 uid: 14790adc-f980-4eef-1bdd-fa791bc2b272
 ---
 Middle Eastern 20th Century Folk Art Photos: Battle of epic heroes. Painting under glass Tunis, Tunisia. 20th century folk art, owned by Prof. Susan Slyomovics.
-

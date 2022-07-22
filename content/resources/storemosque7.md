@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: storemosque7.jpg
 uid: 801c4747-799d-ae95-0a2e-4e975bd4c404
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): Temporary quarters of the Queens Muslim Center: kitchen cabinets serve as minbar and mihrab
-

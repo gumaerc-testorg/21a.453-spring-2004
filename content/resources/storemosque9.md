@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: storemosque9.jpg
 uid: eedb2f66-d2b7-76fd-41b1-e6fe18adaddd
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): The muezzin of Masjid Al-Falah performs unamplified calls to prayer.
-

@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: storemosque12.jpg
 uid: d2d34546-6db2-e2e0-5c20-3d6471c5f6e4
 ---
 Storefront Mosques of New York City Photos (All photos by Susan Slyomovics): Entrance to the Sunnat-El-Jamaat mosque in the Bronx marked with a handwritten sign: "O God, open to me the doors of your mercy"
-

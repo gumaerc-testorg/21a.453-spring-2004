@@ -5,6 +5,7 @@ file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/de5bfdd1ead40
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: arabicfolk.pdf
 uid: de5bfdd1-ead4-00df-de0b-aad3fbbb7ed4
 ---
 This resource includes information on Susan Slyomovics's book.
-
