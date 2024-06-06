@@ -4,6 +4,7 @@ description: 'World Muslim Day Parade Photos: (All photos by Susan Slyomovics): 
   from Muslim Day Parade, New York City, 1991: Float of the Queens Muslim Center,
   with sign of the basmala (In the name of Allah, the compassionate, the merciful).'
 file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/5974a727bfa5430bf0dd1fefcea86ec1_muslimparade39.jpg
+file_size: 26237
 file_type: image/jpeg
 image_metadata:
   caption: ''

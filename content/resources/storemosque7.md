@@ -4,6 +4,7 @@ description: 'Storefront Mosques of New York City Photos (All photos by Susan Sl
   Temporary quarters of the Queens Muslim Center: kitchen cabinets serve as minbar
   and mihrab'
 file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/801c4747799dae950a2e4e975bd4c404_storemosque7.jpg
+file_size: 21003
 file_type: image/jpeg
 image_metadata:
   caption: ''
