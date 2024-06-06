@@ -4,6 +4,7 @@ description: 'Storefront Mosques of New York City Photos (All photos by Susan Sl
   The Turkish community''s Al-Fatih Mosque: former movie theater ticket booth converted
   to a religious bookstore.'
 file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/2ca28fda221cf65d7daca3de63d59776_storemosque10.jpg
+file_size: 30230
 file_type: image/jpeg
 image_metadata:
   caption: ''
