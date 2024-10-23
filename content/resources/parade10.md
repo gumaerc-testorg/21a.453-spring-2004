@@ -3,7 +3,7 @@ content_type: resource
 description: 'World Muslim Day Parade Photos (All photos by Susan Slyomovics): Photos
   from Muslim Day Parade, New York City, 1991: Float of a proposed new building, the
   Muslim Center of New York (Borough of Queens)'
-file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/80b79f74ace588ca57922bdb7fa25ba1_parade10.jpg
+file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/80b79f74ace588ca57922bdb7fa25ba1_parade10.jpg
 file_size: 35908
 file_type: image/jpeg
 image_metadata:
