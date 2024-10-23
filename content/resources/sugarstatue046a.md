@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Middle Eastern 20th Century Folk Art Photos: Epic heroes carved in pink
   sugar candy, Cairo street'
-file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/f51989478cb02ee7f18075126afc91cc_sugarstatue046a.jpg
+file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/f51989478cb02ee7f18075126afc91cc_sugarstatue046a.jpg
 file_size: 61871
 file_type: image/jpeg
 image_metadata:

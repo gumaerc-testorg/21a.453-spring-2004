@@ -2,7 +2,7 @@
 content_type: resource
 description: 'World Muslim Day Parade Photos (All photos by Susan Slyomovics): Photos
   from Muslim Day Parade, New York City, 1991: Float of the Ka''aba (Mecca)'
-file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/450b80c3e267db6408bd805ab4b0f96e_parade7.jpg
+file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/450b80c3e267db6408bd805ab4b0f96e_parade7.jpg
 file_size: 34959
 file_type: image/jpeg
 image_metadata:
