@@ -5,6 +5,7 @@ draft: false
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
+show_section_pages: true
 title: Study Materials
 uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 videos:
