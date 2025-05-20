@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on Susan Slyomovics's book.
-file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/111c144773d43b9e402bea99d768f680_arabictraditions.pdf
+file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/111c144773d43b9e402bea99d768f680_arabictraditions.pdf
 file_size: 333628
 file_type: application/pdf
 learning_resource_types:
