@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Wedding Song Photos (All photos by Susan Slyomovics): Photo stills from
   Wedding Song: Henna Art among Pakistani Women in New York City: Painting the bride'
-file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/2f7f8ec43e437c4a50b038bbb764d5b0_wedsong3.jpg
+file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/2f7f8ec43e437c4a50b038bbb764d5b0_wedsong3.jpg
 file_size: 32435
 file_type: image/jpeg
 image_metadata:

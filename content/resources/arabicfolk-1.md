@@ -2,7 +2,7 @@
 content_type: resource
 description: Susan Slyomovics, "Arabic Folk Literature and Political Expression,"Arab
   Studies Quarterly, 8:2 (1986):178-85.
-file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/677852ebc3936173d3af3b0ca97bcd6d_arabicfolk.pdf
+file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/677852ebc3936173d3af3b0ca97bcd6d_arabicfolk.pdf
 file_size: 467695
 file_type: application/pdf
 learning_resource_types: []
