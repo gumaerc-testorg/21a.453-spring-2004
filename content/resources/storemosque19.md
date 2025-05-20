@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Storefront Mosques of New York City Photos (All photos by Susan Slyomovics):
   Beginnings: a basement mosque with masjid painted on lower left corner, the Bronx.'
-file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/fdb43fb54a8bff5fd2aa3e94e7173fa5_storemosque19.jpg
+file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/fdb43fb54a8bff5fd2aa3e94e7173fa5_storemosque19.jpg
 file_size: 44382
 file_type: image/jpeg
 image_metadata:
