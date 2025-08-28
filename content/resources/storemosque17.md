@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Storefront Mosques of New York City Photos (All photos by Susan Slyomovics):
   Students leaving Islamic Sunday school at Masjid Al-Fatima in Queens.'
-file: /courses/21a-453-anthropology-of-the-middle-east-spring-2004/dd41c6268a590316d08cc41a6eb999b3_storemosque17.jpg
+file: /ol-ocw-studio-app/courses/21a-453-anthropology-of-the-middle-east-spring-2004/dd41c6268a590316d08cc41a6eb999b3_storemosque17.jpg
 file_size: 28056
 file_type: image/jpeg
 image_metadata:
